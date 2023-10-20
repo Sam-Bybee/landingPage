@@ -43,8 +43,6 @@ img {
     z-index: 1;
     text-align: center;
     color: white;
-    position: sticky;
-    top: 10px;
  }
 
  #click {
